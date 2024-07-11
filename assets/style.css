@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  background-color: #d8a47f;
+}
+
+nav p {
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+main {
+  display: flex;
+}
+
+aside {
+  flex: 30%;
+  background-color: #b9c6ae;
+  padding: 20px;
+  flex-wrap: wrap;
+}
