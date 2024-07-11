@@ -7,6 +7,10 @@ It is about me and about my work.
 And it includes contact information for how to reach me.
 This is my first web page!
 
+## Source Code
+
+I sourced code from 02-Advanced-CSS/01-Activities/03-Ins_Flexbox-Layout as HTML starter code.
+
 
 ## Installation
 
