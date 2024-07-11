@@ -1,24 +1,38 @@
-# portfolio-page
-Portfolio page that applies flexbox, media queries, and CSS variables.
+# Portfolio Page
 
-User Story
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+## Description
 
-Acceptance Criteria
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager's needs:
+This is my portfolio page.
+It is about me and about my work.
+And it includes contact information for how to reach me.
+This is my first web page!
 
-GIVEN I need to sample a potential employee's previous work
-Issue 1 - WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-Issue 2 - WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-Issue 3 - WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-Issue 4 - WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-Issue 5 - WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-Issue 6 - WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+
+## Installation
+
+To install this project, first I established the HTML structure, and then I styled the page with CSS.
+
+For example, the text about my work experience came first. Then the format came next, by putting the work experience test in the left pane vertically and by positiong app images on right side.
+
+
+## Usage
+
+You can use this page to get info on my experience, work, and development projects.
+
+Here is a screenshot of the portfolio page.
+
+![alt text](images/screenshot.jpg)
+
+
+
+## Credits
+
+Content suggestions from Indeed.com:
+
+https://www.indeed.com/career-advice/resumes-cover-letters/write-work-experience-on-a-resume
+
+
+## License
+
+MIT License has been applied.
+
