@@ -57,3 +57,30 @@ footer {
   background: #13293d;
   color: #fff;
 }
+
+/* The AboutMe image */
+.AboutMe-img {
+  background-color: #fff;
+  width: 5%;
+  padding: 2px;
+  height: 100px;
+  border: none;
+}
+
+/* The app1 image */
+.app1-img {
+  background-color: #fff;
+  width: 5%;
+  padding: 2px;
+  height: 200px;
+  border: none;
+}
+
+/* The app2 image */
+.app2-img {
+  background-color: #fff;
+  width: 5%;
+  padding: 2px;
+  height: 200px;
+  border: none;
+}
