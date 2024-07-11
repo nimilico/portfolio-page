@@ -3,9 +3,9 @@
 ## Description
 
 This is my portfolio page.
-It is about me and about my work.
-And it includes contact information for how to reach me.
-This is my first web page!
+It contains my work experience and how to contact me.
+
+
 
 ## Source Code
 
@@ -16,14 +16,16 @@ I sourced code from 02-Advanced-CSS/01-Activities/03-Ins_Flexbox-Layout as HTML 
 
 To install this project, first I established the HTML structure, and then I styled the page with CSS.
 
-For example, the text about my work experience came first. Then the format came next, by putting the work experience test in the left pane vertically and by positiong app images on right side.
+For example, first the work experience text was typed in HTML. Then CSS styles were applied to position the work experience along the left side of the page and the app images on the right side.
 
 
 ## Usage
 
 You can use this page to get info on my experience, work, and development projects.
 
-Here is a screenshot of the portfolio page.
+Website address:  https://github.com/nimilico/portfolio-page.git
+
+Screenshot:
 
 ![alt text](images/screenshot.jpg)
 
@@ -31,7 +33,7 @@ Here is a screenshot of the portfolio page.
 
 ## Credits
 
-Content suggestions from Indeed.com:
+I sourced from Indeed.com suggestions how to compose wording for work experience:
 
 https://www.indeed.com/career-advice/resumes-cover-letters/write-work-experience-on-a-resume
 
